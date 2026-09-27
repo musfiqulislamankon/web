@@ -1,0 +1,6 @@
+{
+  "name": "Nexara - Gadget House & Setting Atelier",
+  "description": "A luxury gadget house and device setting atelier modeled on Aarong's editorial modules, offering curated tech, on-site technician visits, lookbook stories, and guest checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
